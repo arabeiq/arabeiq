@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arabeiq
-- 👀 I’m interested in gamming and scients
-- 🌱 I’m currently learning to programm in platzi
+- 👀 I’m interested in gamming and sciences
+- 🌱 I’m currently learning to programm in platzi/Bedu/Google
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 How to reach me jona.aniq@gmail.com
 
